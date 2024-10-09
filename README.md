@@ -80,9 +80,3 @@ SUBSCRIBE_REPLY
 
 [通义千问大模型](https://github.com/LuhangRui/qw-wechat-vercel)
 
-
-#### 有没有作者联系方式，有问题需要咨询？
-
-答：关注我的微信公众号，然后你自然就会知道怎么找到我。
-
-![image](https://github.com/SuxueCode/WechatBakTool/assets/30895030/0a508949-ca25-4394-9d51-062c5334d020)
